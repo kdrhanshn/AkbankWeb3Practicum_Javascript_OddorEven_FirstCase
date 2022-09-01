@@ -1,0 +1,1 @@
+# AkbankWeb3Practicum_Javascript_OddorEven_FirstCase
